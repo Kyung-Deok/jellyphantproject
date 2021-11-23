@@ -5,7 +5,7 @@ import cors from "cors";
 const morgan = require("morgan");
 require('dotenv').config();
 
-//routes
+//routesgit remote add origin 
 const routes = require('./routes/pass_auth');
 
 
